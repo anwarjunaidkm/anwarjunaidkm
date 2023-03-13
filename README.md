@@ -14,7 +14,7 @@
 
 <p align="start">
   <a href="#!">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,nextjs,graphql,html,css,bootstrap,figma,git,github,materialui,netlify,mongodb,tailwind,styledcomponents,sass,visualstudio,redux,jquery,firebase,electron" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,figma,git,github,materialui,mongodb,tailwind,visualstudio,redux,firebase" />
   </a>
 </p>
 
