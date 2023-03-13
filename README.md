@@ -21,13 +21,13 @@
 # Get in Touch
 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/ameen_nediya/)
-[<img alt="facebook" src="https://img.shields.io/badge/facebook-%234267B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.facebook.com/arshad.n.583/)
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://twitter.com/AmeenarshadN)
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/ameen-arshad-nediya/)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:ameen.osperb@gmail.com)
-[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//918606409313)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/ARSHADAMEEN00/)
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/Ameen_hbz)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/anwarjunaidkm/)
+[<img alt="facebook" src="https://img.shields.io/badge/facebook-%234267B2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.facebook.com/anwarjunaidkm/)
+[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://twitter.com/anwarjunaidkm)
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/anwarjunaidkm/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:ajvly22@gmail.com)
+[<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23/>](http://wa.me//919746639178)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/anwarjunaidkm/)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23/>](https://t.me/offlyf)
 
 
