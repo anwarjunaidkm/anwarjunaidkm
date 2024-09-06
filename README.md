@@ -7,7 +7,7 @@
 
 
 #React Js Developer
-#Next Js Developer
+
 
 ## Stack and Tools
 
